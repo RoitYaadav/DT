@@ -72,12 +72,6 @@ Getting Started
 **Download the dataset**:
 Download Off-Road Human Intrusion Detection Dataset ([Google Drive](https://drive.google.com/drive/folders/115sY90MrtFuODeFYcf_kw0cRsyR3A5ql?usp=drive_link))
 
-Clone this repository:
-bash
-git clone https://github.com/yourusername/Offroad-Human-Intrusion-Detection.git
-Follow data/ directory instructions for folder organization after download.
-
-Scripts for training and evaluation are in models/ and evaluation/.
 
 Contributing
 We welcome issues, pull requests, and suggestions. See [CONTRIBUTING.md] or contact maintainers for collaboration.
